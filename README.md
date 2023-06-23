@@ -1,6 +1,8 @@
 # minimal-vue-typescript-highcharts
 For issue report
 
+Issue: [Cannot find module 'highcharts' or its corresponding type declarations. ts(2307)](https://github.com/highcharts/highcharts/issues/19205)
+
 # Environment
 
 ## Visual Studio Code
